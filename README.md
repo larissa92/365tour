@@ -1,6 +1,6 @@
 # 365tour
 
-Bem-vindo ao **365tour**, um projeto inovador para explorar e gerenciar experiências ao longo do ano. Este repositório é dedicado a criar soluções que simplificam a organização e o acompanhamento de atividades e eventos.
+Bem-vindo ao **365tour**, um projeto inovador para explorar e gerenciar experiências ao longo do ano utilizando o programa Microsoft Copilot Studio . Este repositório é dedicado a criar soluções que simplificam a organização e o acompanhamento de atividades e eventos utilizando Agentes Virtuais.
 
 ---
 
@@ -45,4 +45,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ---
 
-> Este README foi criado com o auxílio do GitHub Copilot, um agente de IA que acelera o fluxo de desenvolvimento e escrita de código em colaboração com  Larissa Irene Aguiar.
+> Este README foi criado com o auxílio do GitHub Copilot, um agente de IA que acelera o fluxo de desenvolvimento e escrita de código em colaboração com  Larissa Irene Aguiar, Dev.
