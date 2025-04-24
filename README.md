@@ -6,7 +6,7 @@ Bem-vindo ao **365tour**, um projeto inovador para explorar e gerenciar experiê
 
 ## 📌 Sobre o Projeto
 
-O **365tour** é um projeto focado em trazer praticidade e interação para usuários que buscam explorar ou organizar experiências únicas. O objetivo é oferecer uma plataforma intuitiva que conecta pessoas a experiências de qualidade.
+O **365tour** é um projeto focado em trazer praticidade e interação para usuários que buscam explorar ou organizar experiências únicas. O objetivo é oferecer um assistente pessoal  que conecta pessoas a experiências de qualidade e que transforma a comunicação em algo simples e ágil utilizando a ferramenta Microsoft Copilot Studio.
 
 ---
 
